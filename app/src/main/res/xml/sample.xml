@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <item>Regular text</item>
+    <item>"Text in double quotes"</item>
+    <item>'Text in single quotes'</item>
+    <item>Text containing "double quotes"</item>
+    <item>Text containing 'single quotes'</item>
+</root>
